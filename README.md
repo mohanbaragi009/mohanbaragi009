@@ -1,104 +1,117 @@
-# Hi there, I'm Mohan Baragi! 👋
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-## 🎯 About Me
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Mid>Mohan R Baragi</strong>
+</h1>
 
-```javascript
-const mohan = {
-  name: "Mohan Baragi",
-  roles: ["Full-Stack Developer", "AI & ML Enthusiast", "Open Source Contributor"],
-  location: "India",
-  education: "B.E. in Computer Science",
-  focus: ["Web Development", "Machine Learning", "Cloud Technologies", "DevOps"],
-  sayHi: () => "Let's innovate and build impactful solutions together!"
-}
-```
+<h3>Full Stack Developer | MERN • Python • Java</h3>
 
-## 💻 Tech Stack
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  <p>
+    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
+    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+  </p>
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:mohanreddy00240@gmail.com"><img src="https://img.shields.io/badge/📧_mohanreddy00240@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+  </p>
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+<h3>🌐 Socials</h3>
+  
+<p align="left">
+  <a href="https://dev.to/midhun-nk">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
+  </a>
 
-### AI & ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+  <a href="https://discord.com/users/midhun_n">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
+  </a>
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+  <a href="https://github.com/mohanbaragi009">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  </a>
 
-## 📊 GitHub Analytics
+  <a href="https://www.instagram.com/_mohanreddy_009/">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
+  </a>
 
-![Mohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohanbaragi009&show_icons=true&theme=radical&hide_border=true)
+  <a href="https://linkedin.com/in/mohan-baragi.">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanbaragi009&layout=compact&theme=radical&hide_border=true)
+  <a href="https://youtube.com/EduMikeStudio">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
 
-## 🌟 Featured Projects
 
-### 🔗 [AI Travel & Weather Agent](https://github.com/mohanbaragi009/ai-travel-weather)
-Agent-style POC combining a travel desk and weather tool with modular tool-calling & external API integrations.
-**Tech:** Python, LangChain, API Integration, Agents
+  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
+</div>
 
-### 🧠 [BrainScan-AI](https://github.com/mohanbaragi009/brainscan-ai)
-Full-stack medical imaging webapp: React/TS frontend, Flask API, PyTorch inference for MRI tumor detection.
-**Tech:** React, TypeScript, Flask, PyTorch, Firebase
+<br clear="all" />
 
-### 💰 [ExpenseAI](https://github.com/mohanbaragi009/expenseai)
-AI-enabled expense tracker with automated parsing, category classification, budget alerts, and privacy-first design.
-**Tech:** JavaScript, HTML5, CSS3, AI Enabled
 
-### 🔧 Additional Projects
-- **[billbuddy](#)** - TypeScript
-- **[rubber-bumper](#)** - JavaScript
-- **[AI_Travel_weather](#)** - Python
+## 🛠️ Skills
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
 
-[→ View All Projects](https://github.com/mohanbaragi009?tab=repositories)
+ <img src="https://skillicons.dev/icons?i=html,css,js,python,c,typescript" />
+<br/><br/>
 
-## 🎨 Tools & Platforms I Use
+</td>
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8F7EE7?style=flat&logo=google&logoColor=white)
-![Midjourney](https://img.shields.io/badge/Midjourney-0A0E27?style=flat&logoColor=white)
-![Leonardo AI](https://img.shields.io/badge/Leonardo_AI-7B2CBF?style=flat&logoColor=white)
+<td width="50%" align="center">
+   <h3>📚 Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,nextjs,tailwind,bootstrap" />
+</td>
 
-## 📈 Recent Activity
 
-- 🔨 Working on AI-driven applications
-- 📚 Exploring Machine Learning & LLMs
-- 🤝 Open to collaborations and contributions
-- 💡 Always learning new technologies
 
-## 🤝 Let's Connect!
+</tr>
+<tr>
+<td width="50%" align="center">
+  <h3>🗄️ Databases</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+<br/><br/>
 
-I'm always open to new opportunities, collaborations, and connections!
+</td>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohanbaragi009)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohanbaragi009@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mohanbaragi009)
+<td width="50%" align="center">
+    <h3>🧰 Tools & Platforms</h3>
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,postman,andriodstudio" />
+</td>
+</tr>
+</table>
+</p>
+
+
+
+
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=mohanbaragi009&theme=dark&hide_border=true" alt="Streak" />
+</div>
 
 ---
 
-<div align="center">
-  
-### 🚀 Always open to new opportunities and innovations!
+## ❤️ Support Me
 
-**"Let's innovate and build impactful AI-driven solutions together!"**
+<p align="center">
+  <a href="https://www.buymeacoffee.com/mohanbaragi009">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  </a>
+</p>
 
-</div>
